@@ -42,17 +42,21 @@
 				</data>
 				<key>ports</key>
 				<dict>
-					<key>HS02</key>
+					<key>HS01</key>
 					<dict>
+						<key>Comment</key>
+						<string>Front USB Type-C</string>
 						<key>UsbConnector</key>
-						<integer>10</integer>
+						<integer>9</integer>
 						<key>port</key>
 						<data>
-						AgAAAA==
+						AQAAAA==
 						</data>
 					</dict>
 					<key>HS05</key>
 					<dict>
+						<key>Comment</key>
+						<string>Rear USB 2.0 (black)</string>
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>port</key>
@@ -62,6 +66,8 @@
 					</dict>
 					<key>HS06</key>
 					<dict>
+						<key>Comment</key>
+						<string>Rear USB 2.0 (black)</string>
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>port</key>
@@ -71,6 +77,8 @@
 					</dict>
 					<key>HS07</key>
 					<dict>
+						<key>Comment</key>
+						<string>Rear USB 3.1 Gen 1 (blue)</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -80,6 +88,8 @@
 					</dict>
 					<key>HS08</key>
 					<dict>
+						<key>Comment</key>
+						<string>Rear USB 3.1 Gen 1 (blue)</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -89,6 +99,8 @@
 					</dict>
 					<key>HS09</key>
 					<dict>
+						<key>Comment</key>
+						<string>Front USB 3.1 Gen 1</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -98,6 +110,8 @@
 					</dict>
 					<key>HS10</key>
 					<dict>
+						<key>Comment</key>
+						<string>Front USB 3.1 Gen 1</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -107,6 +121,8 @@
 					</dict>
 					<key>HS14</key>
 					<dict>
+						<key>Comment</key>
+						<string>Bluetooth/Wifi - BRCM20702 Hub</string>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>port</key>
@@ -114,8 +130,21 @@
 						DgAAAA==
 						</data>
 					</dict>
+					<key>SS01</key>
+					<dict>
+						<key>Comment</key>
+						<string>Front USB Type-C</string>
+						<key>UsbConnector</key>
+						<integer>9</integer>
+						<key>port</key>
+						<data>
+						EQAAAA==
+						</data>
+					</dict>
 					<key>SS03</key>
 					<dict>
+						<key>Comment</key>
+						<string>Rear USB 3.1 Gen 2 (red)</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -125,6 +154,8 @@
 					</dict>
 					<key>SS04</key>
 					<dict>
+						<key>Comment</key>
+						<string>Rear USB 3.1 Gen 2 (red)</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -132,17 +163,10 @@
 						FAAAAA==
 						</data>
 					</dict>
-					<key>SS06</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>10</integer>
-						<key>port</key>
-						<data>
-						FgAAAA==
-						</data>
-					</dict>
 					<key>SS07</key>
 					<dict>
+						<key>Comment</key>
+						<string>Rear USB 3.1 Gen 1 (blue)</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -152,6 +176,8 @@
 					</dict>
 					<key>SS08</key>
 					<dict>
+						<key>Comment</key>
+						<string>Rear USB 3.1 Gen 1 (blue)</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -161,6 +187,8 @@
 					</dict>
 					<key>SS09</key>
 					<dict>
+						<key>Comment</key>
+						<string>Front USB 3.1 Gen 1</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -170,6 +198,8 @@
 					</dict>
 					<key>SS10</key>
 					<dict>
+						<key>Comment</key>
+						<string>Front USB 3.1 Gen 1</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
