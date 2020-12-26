@@ -1,4 +1,14 @@
-# Asus z390-itx * i7 9700k * Sapphire RX 5700XT  hackintosh opencore-0.5.9 macOS Catalina-10.15.5 2020.06.18
+# Asus z390-itx * i7 9700k * Sapphire RX 5700XT  hackintosh opencore-0.6.4 macOS Big Sur-11.1 2020.12.26
+
+## 简述
+
+opencore > 0.6.4
+
+ - Wifi    ✔️
+ - AirDrop ✔️
+ - Handoff ✔️
+ - 休眠    ✔️
+
 ## 硬件配置
 
 20200520-20200610 购入
@@ -25,6 +35,12 @@
 ## 图片预览
 
 <details>
+
+![](images/about-11.1.png)
+
+![](images/about-bluetooth.png)
+
+![](images/about-wifi.png)
 
 ![](images/about.png)
 
